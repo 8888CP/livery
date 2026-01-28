@@ -316,13 +316,13 @@
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
-              {
-                  "name": "Qingdao Airlines (Wonderful Jilin livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/qingdaowonderfuljilin.png"
-                  ],
-                  "credits": "一架山航的波音737"
-              },
+               {
+                   "name": "Qingdao Airlines (Wonderful Jilin livery)",
+                   "texture": [
+                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/qingdaowonderfuljilin.png"
+                   ],
+                   "credits": "一架山航的波音737"
+               },
               {
                   "name": "Spring Airlines (HOROYOI livery)",
                   "texture": [
@@ -346,13 +346,13 @@
         "2871": {
             "name": "Airbus a320neo",
             "liveries": [
-               {
-                  "name": "China Southern",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/chinasouthern.png"
-                  ],
-                  "credits": "KN5290"
-               },
+                {
+                   "name": "China Southern",
+                   "texture": [
+                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/chinasouthern.png"
+                   ],
+                   "credits": "KN5290"
+                },
                {
                   "name": "Colorful Guizhou Airlines (China Moutai livery)",
                   "texture": [
@@ -1271,4 +1271,5 @@
             ]
         }
     }
+
 }
