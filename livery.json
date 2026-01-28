@@ -287,6 +287,13 @@
             "name": "Boeing b787-9",
             "liveries": [
               {
+                  "name": "ANA (Star Alliance livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/ANAstar.png"
+                  ],
+                  "credits": "CP8888"
+              },
+              {
                   "name": "China Eastern (Headquarters)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/MUHeadquarters.jpg"
@@ -300,13 +307,7 @@
                   ],
                   "credits": "TOMAIIM"
                },
-               {
-                  "name": "ANA (Star Alliance livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/ANAstar.png"
-                  ],
-                  "credits": "CP8888"
-               }
+               
             ],
             "labels": [
                 "Texture"
@@ -316,16 +317,16 @@
             "name": "Airbus a320-214",
             "liveries": [
               {
-                  "name": "Spring Airlines (HOROYOI livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/springhoroyoI.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               },
-               {
                   "name": "Qingdao Airlines (Wonderful Jilin livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/qingdaowonderfuljilin.png"
+                  ],
+                  "credits": "一架山航的波音737"
+              },
+              {
+                  "name": "Spring Airlines (HOROYOI livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/springhoroyoI.png"
                   ],
                   "credits": "一架山航的波音737"
                }
@@ -345,12 +346,12 @@
         "2871": {
             "name": "Airbus a320neo",
             "liveries": [
-              {
-                  "name": "Qingdao Airlines (Jinghong livery)",
+               {
+                  "name": "China Southern",
                   "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/qingdaojinghong.png"
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/chinasouthern.png"
                   ],
-                  "credits": "CP8888"
+                  "credits": "KN5290"
                },
                {
                   "name": "Colorful Guizhou Airlines (China Moutai livery)",
@@ -365,6 +366,20 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/China_ExpressB-324E.png"
                   ],
                   "credits": "CP8888"
+               },
+               {
+                  "name": "Qingdao Airlines (Jinghong livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/qingdaojinghong.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "Spring Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/spring_airlines.png"
+                  ],
+                  "credits": "KN5290"
                },
                {
                   "name": "Xiamen Airlines",
@@ -601,6 +616,13 @@
                   "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321neo/shenzhen.png"
                   ],
                   "credits": "CP8888"
+               },
+               {
+                  "name": "Shenzhen Airlines",
+                  "texture": [
+                  "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321neo/Spring_Airlines.jpg"
+                  ],
+                  "credits": "KN5290"
                },
                {
                   "name": "West Air",
