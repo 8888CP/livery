@@ -476,7 +476,7 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/mandarin.png"
                   ],
-                  "credits": "HO1796[Sino Wings Group]"
+                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -757,6 +757,13 @@
         "5086": {
             "name": "Airbus a321-211",
             "liveries": [
+              {
+                  "name": "Sichuan Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321-211/sichuanairlines.jpg"
+                  ],
+                  "credits": "CP8888"
+              },
               {
                   "name": "DHL (Operated by SmartLynx Cargo)",
                   "texture": [
