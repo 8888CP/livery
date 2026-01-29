@@ -306,8 +306,7 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/hainan5star.png"
                   ],
                   "credits": "TOMAIIM"
-               },
-               
+               } 
             ],
             "labels": [
                 "Texture"
@@ -1272,3 +1271,4 @@
         }
     }
 }
+
