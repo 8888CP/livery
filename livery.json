@@ -464,19 +464,19 @@
                   ],
                   "credits": "HO1796[Sino Wings Group]"
                },
+                {
+                  "name": "Hebei Airlines (20th aircraft livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/hebei20th.png"
+                  ],
+                  "credits": "CP8888"
+               },
                {
                   "name": "Mandarin Airlines(new design)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/mandarin.png"
                   ],
                   "credits": "HO1796[Sino Wings Group]"
-               },
-               {
-                  "name": "Hebei Airlines (20th aircraft livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/hebei20th.png"
-                  ],
-                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -570,20 +570,20 @@
             "name": "Airbus a350-900",
             "liveries": [
               {
-                  "name": "World2fly",
-                  "texture": [
-                      "/models/aircraft/premium/a350/specular.jpg",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/World2fly.png"
-                  ],
-                  "credits": "KN5290"
-               },
-               {
                   "name": "Finnair (Santa Claus livery)",
                   "texture": [
                       "/models/aircraft/premium/a350/specular.jpg",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/FinnairSantaClaus.png"
                   ],
                   "credits": "CP8888"
+               },
+              {
+                  "name": "World2fly",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/World2fly.png"
+                  ],
+                  "credits": "KN5290"
                }
             ],
             "labels": [
@@ -617,7 +617,7 @@
                   "credits": "CP8888"
                },
                {
-                  "name": "Shenzhen Airlines",
+                  "name": "Spring Airlines",
                   "texture": [
                   "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321neo/Spring_Airlines.jpg"
                   ],
@@ -781,18 +781,18 @@
             "name": "Airbus a330-200",
             "liveries": [
               {
-                  "name": "China Eastern (50th A330 for China Eastern)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/MU50th.png"
-                  ],
-                  "credits": "KN5290＆CP8888"
-               },
-               {
                   "name": "Air China Cargo",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/AirChinaCargo.png"
                   ],
                   "credits": "KN5290"
+               },
+              {
+                  "name": "China Eastern (50th A330 for China Eastern)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/MU50th.png"
+                  ],
+                  "credits": "KN5290＆CP8888"
                }
             ],
             "labels": [
@@ -1069,14 +1069,6 @@
             "name": "Boeing b777-200F",
             "liveries": [
               {
-                  "name": "China Cargo (China Eastern Cold Chain 10th Anniversary livery of theSouth America Fresh Express)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/MUcoldchain10th.png"
-                  ],
-                  "credits": "TOMAIIM"
-               },
-               {
                   "name": "Air China Cargo",
                   "texture": [
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
@@ -1089,6 +1081,14 @@
                   "texture": [
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/CAred.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+              {
+                  "name": "China Cargo (China Eastern Cold Chain 10th Anniversary livery of theSouth America Fresh Express)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/MUcoldchain10th.png"
                   ],
                   "credits": "TOMAIIM"
                },
@@ -1208,22 +1208,6 @@
                   "credits": "CP8888"
                },
                {
-                  "name": "KLM (old livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KLMold.png",
-                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
-                  ],
-                  "credits": "CP8888"
-               },
-               {
-                  "name": "KLM (new livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KLMnew.png",
-                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
-                  ],
-                  "credits": "CP8888"
-               },
-               {
                   "name": "Japan Airlines (Solar arc livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/JALsolar.png",
@@ -1246,6 +1230,22 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
                   "credits": "TOMAIIM"
+               },
+               {
+                  "name": "KLM (old livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KLMold.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "KLM (new livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KLMnew.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
                },
                {
                   "name": "Suparna Airlines",
@@ -1271,4 +1271,5 @@
         }
     }
 }
+
 
