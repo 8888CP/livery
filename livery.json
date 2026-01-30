@@ -472,7 +472,7 @@
                   "credits": "CP8888"
                },
                {
-                  "name": "Mandarin Airlines(new design)",
+                  "name": "Mandarin Airlines (new design)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/mandarin.png"
                   ],
@@ -1278,5 +1278,6 @@
         }
     }
 }
+
 
 
