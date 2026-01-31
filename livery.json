@@ -1216,6 +1216,14 @@
                   "credits": "KN5290"
                },
                {
+                  "name": "ANA (Yokoso Japan livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/ANAYOKOSOJAPAN.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+               {
                   "name": "China Airlines (Skyteam livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/CIsky.png",
