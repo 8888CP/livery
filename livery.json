@@ -1317,6 +1317,28 @@
                 "Fuselage texture",
                 "Wing texture"
             ]
+        },
+        "5847": {
+            "name": "Airbus A319neo",
+            "liveries": [
+              {
+                  "name": "Grupo Safra",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319neo/Grupo_Safra.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "Tibet Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319neo/Tibet_Airlines.png"
+                  ],
+                  "credits": "TOMAIIM＆Nicky"
+               }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
