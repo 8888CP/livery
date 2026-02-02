@@ -318,7 +318,7 @@
                   "credits": "CP8888"
               },
               {
-                  "name": "China Eastern (Headquarters)",
+                  "name": "China Eastern Airlines (Headquarters)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/MUHeadquarters.jpg"
                   ],
@@ -370,7 +370,7 @@
             "name": "Airbus a320neo",
             "liveries": [
                 {
-                   "name": "China Southern",
+                   "name": "China Southern Airlines",
                    "texture": [
                        "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/chinasouthern.png"
                    ],
@@ -594,12 +594,44 @@
             "name": "Airbus a350-900",
             "liveries": [
               {
+                  "name": "Air China (Unpainted)",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/CAunpainted.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               },
+               {
+                  "name": "China Southern Airlines (Unpainted)",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/CZunpainted.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               },
+               {
+                  "name": "China Eastern Airlines (Unpainted)",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/MUunpainted.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               },
+              {
                   "name": "Finnair (Santa Claus livery)",
                   "texture": [
                       "/models/aircraft/premium/a350/specular.jpg",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/FinnairSantaClaus.png"
                   ],
                   "credits": "CP8888"
+               },
+               {
+                  "name": "Turkish Airlines (Unpainted)",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/TKunpainted.png"
+                  ],
+                  "credits": "一架山航的波音737"
                },
               {
                   "name": "World2fly",
@@ -812,6 +844,14 @@
             "name": "Airbus a330-200",
             "liveries": [
               {
+                  "name": "Air China (50th A330 livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/CA50sticker.png"
+                  ],
+                  "credits": "一架山航的波音737
+"
+               },
+              {
                   "name": "Air China Cargo",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/AirChinaCargo.png"
@@ -819,7 +859,7 @@
                   "credits": "KN5290"
                },
               {
-                  "name": "China Eastern (50th A330 for China Eastern)",
+                  "name": "China Eastern Airlines (50th A330 for China Eastern)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/MU50th.png"
                   ],
