@@ -848,7 +848,7 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/CA50sticker.png"
                   ],
-                  "credits": "一架山航的波音737"
+                  "credits": "一架山航的波音737
                },
               {
                   "name": "Air China Cargo",
@@ -863,6 +863,20 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/MU50th.png"
                   ],
                   "credits": "KN5290＆CP8888"
+               },
+               {
+                  "name": "China Eastern Airlines (Skyteam livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/Chinaeasternskyteam.png"
+                  ],
+                  "credits": "KN5290"
+               },
+               {
+                  "name": "China Eastern Airlines (old design - Skyteam livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/Chinaeasternskyteamold.png"
+                  ],
+                  "credits": "KN5290"
                }
             ],
             "labels": [
@@ -1388,8 +1402,6 @@
         }
     }
 }
-
-
 
 
 
