@@ -1085,7 +1085,14 @@
               {
                   "name": "Chongqing Airlines",
                   "texture": [
-                      "https://i.ibb.co/23r2t1YV/chongqing.png"
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-232/chongqing.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "Longjiang Airlines (white design)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-232/Longjiang_Airlines_white.png"
                   ],
                   "credits": "CP8888"
                }
@@ -1298,6 +1305,14 @@
         "5527": {
             "name": "Boeing B747-400",
             "liveries": [
+              {
+                  "name": "Atlas Air (white tail wing)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/Atlas_Air_white_tail.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "KN5290"
+               },
               {
                   "name": "Air China Cargo",
                   "texture": [
