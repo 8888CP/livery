@@ -231,6 +231,21 @@
         "237": {
             "name": "Boeing b767-300ER",
             "liveries": [
+              {
+                  "name": "Shanghai Airlines (old design)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png"
+                  ],
+                  "credits": "TOMAIIM"
+               }
             ],
             "labels": [
                 "Texture"
@@ -474,6 +489,13 @@
         "3054": {
             "name": "Boeing b737-800",
             "liveries": [
+              {
+                  "name": "China Eastern Airlines (Skyteam livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/ChinaeasternSkyteam.png"
+                  ],
+                  "credits": "KN5290"
+               },
               {
                   "name": "CR airways (white livery)",
                   "texture": [
@@ -1095,6 +1117,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-232/Longjiang_Airlines_white.png"
                   ],
                   "credits": "CP8888"
+               },
+               {
+                  "name": "Turkish Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-232/Turkish_Airlines.png"
+                  ],
+                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -1186,6 +1215,14 @@
                   "texture": [
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/CAred.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+              {
+                  "name": "China Southern Cargo Airlines (white livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/Chinasouthernwhite.png"
                   ],
                   "credits": "TOMAIIM"
                },
