@@ -776,6 +776,13 @@
         "4764": {
             "name": "Boeing b767-400ER",
             "liveries": [
+              {
+                  "name": "Shanghai Airlines (Star Alliance livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-400/shanghaistar.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -814,6 +821,13 @@
             "name": "Airbus a321-211",
             "liveries": [
               {
+                  "name": "DHL (Operated by SmartLynx Cargo)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321-211/DHLSmartLynxCargo.png"
+                  ],
+                  "credits": "Geofs Player Bilibili"
+               },
+              {
                   "name": "Sichuan Airlines",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321-211/sichuanairlines.jpg"
@@ -821,12 +835,12 @@
                   "credits": "CP8888"
               },
               {
-                  "name": "DHL (Operated by SmartLynx Cargo)",
+                  "name": "Salam Air Cargo",
                   "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321-211/DHLSmartLynxCargo.png"
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321-211/Salam_Air_Cargo.png"
                   ],
                   "credits": "Geofs Player Bilibili"
-               }
+              }
             ],
             "labels": [
                 "Texture"
