@@ -362,6 +362,20 @@
                    "credits": "一架山航的波音737"
                },
               {
+                  "name": "Spring Airlines (old design)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/springairlinesold.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               },
+               {
+                  "name": "Spring Airlines V2",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/springirlinesv2.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               },
+              {
                   "name": "Spring Airlines (HOROYOI livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/springhoroyoI.png"
@@ -420,6 +434,13 @@
                   "credits": "KN5290"
                },
                {
+                  "name": "Spring Airlines (100th aircraft livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/springairlines100th.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               },
+               {
                   "name": "Xiamen Airlines",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/xiamen.png"
@@ -434,6 +455,20 @@
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
+              {
+                  "name": "China Southern Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/Chinasouthern.png"
+                  ],
+                  "credits": "CP8888"
+               },
+              {
+                  "name": "China Southern Airlines (with SkyTeam logo)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/Chinasouthernskyteamlogo.png"
+                  ],
+                  "credits": "CP8888"
+               },
               {
                   "name": "Shandong Airlines (CAQ livery)",
                   "texture": [
