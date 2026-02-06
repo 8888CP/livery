@@ -600,6 +600,20 @@
             "name": "SAAB 340",
             "liveries": [
               {
+                  "name": "Japan Air Commuter",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/SAAB340/JAC.png"
+                  ],
+                  "credits": "CP8888"
+               },
+              {
+                  "name": "Japan Air Commuter (Arc of the sun)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/SAAB340/JACsun.png"
+                  ],
+                  "credits": "CP8888"
+               },
+              {
                   "name": "UN",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/SAAB340/UN.png"
