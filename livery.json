@@ -456,6 +456,20 @@
             "name": "Boeing b737-MAX8",
             "liveries": [
               {
+                  "name": "Air China (National flag)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/Air_China.png"
+                  ],
+                  "credits": "CP8888"
+               },
+              {
+                  "name": "Air China (ZhouShan Hello livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/airchinazhoushan.png"
+                  ],
+                  "credits": "CP8888＆TOMAIIM"
+               },
+              {
                   "name": "China Southern Airlines",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/Chinasouthern.png"
