@@ -1536,6 +1536,23 @@
             "labels": [
                 "Texture"
             ]
+        },
+        "1005": {
+            "name": "Boeing B777-9X",
+            "liveries": [
+              {
+                  "name": "Boeing house livery (white tail wing)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/boeing_white_tail.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/boeing_white_tail.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/boeing_white_tail.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
