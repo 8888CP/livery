@@ -354,34 +354,6 @@
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
-               {
-                   "name": "Qingdao Airlines (Wonderful Jilin livery)",
-                   "texture": [
-                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/qingdaowonderfuljilin.png"
-                   ],
-                   "credits": "一架山航的波音737"
-               },
-              {
-                  "name": "Spring Airlines (old design)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/springairlinesold.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               },
-               {
-                  "name": "Spring Airlines V2",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/springirlinesv2.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               },
-              {
-                  "name": "Spring Airlines (HOROYOI livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/springhoroyoI.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               }
             ],
             "labels": [
                 "Texture"
@@ -432,13 +404,6 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/spring_airlines.png"
                   ],
                   "credits": "KN5290"
-               },
-               {
-                  "name": "Spring Airlines (100th aircraft livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/springairlines100th.png"
-                  ],
-                  "credits": "一架山航的波音737"
                },
                {
                   "name": "Xiamen Airlines",
@@ -545,13 +510,6 @@
                   ],
                   "credits": "KN5290"
                },
-              {
-                  "name": "CR airways (white livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/CR_Airways.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               },
                {
                   "name": "China United (Chengdu livery)",
                   "texture": [
@@ -572,13 +530,6 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/mandarin.png"
                   ],
                   "credits": "CP8888"
-               },
-               {
-                  "name": "Shandong Airlines (Zhongtai Securities livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/shandongzhongtai.png"
-                  ],
-                  "credits": "一架山航的波音737"
                }
             ],
             "labels": [
@@ -672,44 +623,12 @@
             "name": "Airbus a350-900",
             "liveries": [
               {
-                  "name": "Air China (Unpainted)",
-                  "texture": [
-                      "/models/aircraft/premium/a350/specular.jpg",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/CAunpainted.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               },
-               {
-                  "name": "China Southern Airlines (Unpainted)",
-                  "texture": [
-                      "/models/aircraft/premium/a350/specular.jpg",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/CZunpainted.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               },
-               {
-                  "name": "China Eastern Airlines (Unpainted)",
-                  "texture": [
-                      "/models/aircraft/premium/a350/specular.jpg",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/MUunpainted.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               },
-              {
                   "name": "Finnair (Santa Claus livery)",
                   "texture": [
                       "/models/aircraft/premium/a350/specular.jpg",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/FinnairSantaClaus.png"
                   ],
                   "credits": "CP8888"
-               },
-               {
-                  "name": "Turkish Airlines (Unpainted)",
-                  "texture": [
-                      "/models/aircraft/premium/a350/specular.jpg",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/TKunpainted.png"
-                  ],
-                  "credits": "一架山航的波音737"
                },
               {
                   "name": "World2fly",
@@ -935,13 +854,6 @@
         "2856": {
             "name": "Airbus a330-200",
             "liveries": [
-              {
-                  "name": "Air China (50th A330 livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/CA50sticker.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               },
               {
                   "name": "Air China Cargo",
                   "texture": [
@@ -1540,15 +1452,6 @@
         "1005": {
             "name": "Boeing B777-9X",
             "liveries": [
-              {
-                  "name": "Boeing house livery (white tail wing)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/boeing_white_tail.png",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/boeing_white_tail.png",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/boeing_white_tail.png"
-                  ],
-                  "credits": "一架山航的波音737"
-               },
                {
                   "name": "China Southern Airlines (planned livery)",
                   "texture": [
@@ -1565,6 +1468,7 @@
         }
     }
 }
+
 
 
 
