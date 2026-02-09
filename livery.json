@@ -1548,6 +1548,15 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/boeing_white_tail.png"
                   ],
                   "credits": "一架山航的波音737"
+               },
+               {
+                  "name": "China Southern Airlines (planned livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/China Southern planned.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/China Southern planned.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-9x/China Southern planned.png"
+                  ],
+                  "credits": "TOMAIIM＆Nimbus"
                }
             ],
             "labels": [
