@@ -1316,7 +1316,7 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Comac_c919/Comac_express.png"
                   ],
                   "credits": "CP8888"
-               },
+               }
             ],
             "labels": [
                 "Texture"
@@ -1483,6 +1483,7 @@
         }
     }
 }
+
 
 
 
