@@ -684,7 +684,7 @@
                   "credits": "CP8888"
                },
                {
-                  "name": "West Air (old radome)",
+                  "name": "West Air (old livery radome)",
                   "texture": [
                   "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321neo/WestAiroldradome.png"
                   ],
@@ -1151,6 +1151,14 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200/mahan.png"
                   ],
                   "credits": "CP8888"
+               },
+               {
+                  "name": "United Airlines (old livery radome)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200/United_old_radome.png"
+                  ],
+                  "credits": "TOMAIIM"
                }
             ],
             "labels": [
