@@ -293,6 +293,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319/NS.png"
                   ],
                   "credits": "CP8888"
+               },
+               {
+                  "name": "Deer Jet",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319/deerjet.png"
+                  ],
+                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -1458,6 +1465,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319neo/Tibet_Airlines.png"
                   ],
                   "credits": "TOMAIIM＆Nicky"
+               },
+               {
+                  "name": "T7-1177",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319neo/T7-1177.png"
+                  ],
+                  "credits": "HO1796[Sino Wings Group]"
                }
             ],
             "labels": [
