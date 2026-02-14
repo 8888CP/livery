@@ -288,6 +288,20 @@
             "name": "Airbus a319-100",
             "liveries": [
                {
+                  "name": "Air China (B-6033)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319/B6033.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "Air China (Flagless)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319/B6033.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
                   "name": "China Northeast Airlines",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319/NS.png"
