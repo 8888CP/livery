@@ -1529,6 +1529,11 @@
                {
                   "name": "Delta Connection",
                   "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Embraer_erj175/deltaconnection.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Embraer_erj175/deltaconnection.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Embraer_erj175/deltaconnection.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Embraer_erj175/deltaconnection.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Embraer_erj175/deltaconnection.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Embraer_erj175/deltaconnection.png"
                   ],
                   "credits": "CP8888"
@@ -1540,6 +1545,7 @@
         }
     }
 }
+
 
 
 
