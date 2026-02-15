@@ -485,9 +485,16 @@
             "name": "Boeing b787-10",
             "liveries": [
               {
-                  "name": "Korean Air (Blackpink livery)",
+                  "name": "Korean Air (Blackpink livery V1)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-10/koreanblankpink.png"
+                   ],
+                   "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Korean Air (Blackpink livery V2)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-10/KoreanAir&BlackPink_V2.png"
                    ],
                    "credits": "TOMAIIM"
                },
@@ -1094,6 +1101,13 @@
             "name": "Airbus a320-232",
             "liveries": [
               {
+                  "name": "China Southern (Skyteam livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-232/Chinasouthern_skyteam.png"
+                  ],
+                  "credits": "KN5290"
+               },
+              {
                   "name": "Chongqing Airlines",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-232/chongqing.png"
@@ -1508,12 +1522,24 @@
             "labels": [
                 "Texture"
             ]
+        },
+        "5566": {
+            "name": "Embraer ERJ 175",
+            "liveries": [
+               {
+                  "name": "Delta Connection",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Embraer_erj175/deltaconnection.png"
+                  ],
+                  "credits": "CP8888"
+               }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
-
-
-
 
 
 
