@@ -4,5 +4,5 @@ livery.json is kolos26's airline.json; I did this purely for entertainment purpo
 link:https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/livery.json
 ## Last Updated Time (GMT+8)
 ```C++
-February 15, 2026, 2:10 PM
+February 22, 2026, 9:41 PM
 ```

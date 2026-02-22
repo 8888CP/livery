@@ -361,6 +361,13 @@
                   "credits": "KN5290"
                },
                {
+                  "name": "China Southern Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/China_southern.png"
+                  ],
+                  "credits": "TOMAIIM＆開飛機のzm[Sino Wings Group]"
+               },
+               {
                   "name": "Hainan Airlines (Soyteax 5 star Skytrax livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/hainan5star.png"
@@ -659,6 +666,14 @@
                   "credits": "CP8888"
                },
               {
+                  "name": "Starlux",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/starlux.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+              {
                   "name": "World2fly",
                   "texture": [
                       "/models/aircraft/premium/a350/specular.jpg",
@@ -765,6 +780,14 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/KEblackpink.png"
                   ],
                   "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Singapore Airlines (Star Alliance livery)",
+                  "texture": [
+                      "/models/aircraft/premium/777_300/specular_0.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Singapore_Airlines_Star_Alliance.png"
+                  ],
+                  "credits": "KN5290"
                }
             ],
             "labels": [
