@@ -788,6 +788,14 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Singapore_Airlines_Star_Alliance.png"
                   ],
                   "credits": "KN5290"
+               },
+               {
+                  "name": "Thai Airways (Star Alliance livery)",
+                  "texture": [
+                      "/models/aircraft/premium/777_300/specular_0.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Thaistar.jpg"
+                  ],
+                  "credits": "CP8888"
                }
             ],
             "labels": [
