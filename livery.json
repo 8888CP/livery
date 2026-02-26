@@ -1392,6 +1392,14 @@
             "name": "Boeing B747-400",
             "liveries": [
               {
+                  "name": "Atlas Air",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/Atlasair.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
+              {
                   "name": "Atlas Air (white tail wing)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/Atlas_Air_white_tail.png",
