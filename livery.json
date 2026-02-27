@@ -331,6 +331,20 @@
         "2973": {
             "name": "Airbus a350-1000",
             "liveries": [
+              {
+                  "name": "Air China Cargo",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-1000/airchinacargo.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Air China Cargo (red cargo logo)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-1000/airchinacargored.png"
+                  ],
+                  "credits": "TOMAIIM"
+               }
             ],
             "labels": [
                 "Texture"
@@ -382,6 +396,13 @@
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
+              {
+                  "name": "Spring Airlines (Smartee Invisible Orthodontic Appliance livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/B6841.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -666,6 +687,14 @@
                   "credits": "CP8888"
                },
               {
+                  "name": "ITA Airways (Born to be Sustainable livery)",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/ITA.png"
+                  ],
+                  "credits": "KN5290"
+               },
+              {
                   "name": "Starlux",
                   "texture": [
                       "/models/aircraft/premium/a350/specular.jpg",
@@ -788,14 +817,6 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Singapore_Airlines_Star_Alliance.png"
                   ],
                   "credits": "KN5290"
-               },
-               {
-                  "name": "Thai Airways (Star Alliance livery)",
-                  "texture": [
-                      "/models/aircraft/premium/777_300/specular_0.jpg",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Thaistar.jpg"
-                  ],
-                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -1211,6 +1232,14 @@
             "name": "Boeing b777-200",
             "liveries": [
               {
+                  "name": "Japan Airlines (Tokyo Olympics 2020 livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200/japantokyo2020.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+              {
                   "name": "Mahan Air",
                   "texture": [
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
@@ -1281,6 +1310,14 @@
                   "texture": [
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/MUold.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+               {
+                  "name": "China Postal Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/Chinapostal.png"
                   ],
                   "credits": "TOMAIIM"
                }
