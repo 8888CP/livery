@@ -560,6 +560,13 @@
             "name": "Boeing b737-800",
             "liveries": [
               {
+                  "name": "China Eastern Airlines (old design)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/Chinaeasternold.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+              {
                   "name": "China Eastern Airlines (Skyteam livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/ChinaeasternSkyteam.png"
@@ -897,6 +904,20 @@
         "5086": {
             "name": "Airbus a321-211",
             "liveries": [
+              {
+                  "name": "ANA",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321-211/ANA.png"
+                  ],
+                  "credits": "CP8888"
+               },
+              {
+                  "name": "ANA (new design, old design sharklets)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321-211/ANAold.png"
+                  ],
+                  "credits": "CP8888"
+               },
               {
                   "name": "DHL (Operated by SmartLynx Cargo)",
                   "texture": [
