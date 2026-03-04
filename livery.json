@@ -387,7 +387,14 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/hainan5star.png"
                   ],
                   "credits": "TOMAIIM"
-               } 
+               },
+               {
+                  "name": "Korean Air",
+                  "texture": [
+                      "https://i.ibb.co/jZM54RGK/koreanair.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -503,6 +510,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/shandongCAQ.png"
                   ],
                   "credits": "HO1796[Sino Wings Group]"
+               },
+              {
+                  "name": "Shandong Airlines (Hainan Airlines tail wing)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/N234BE.png"
+                  ],
+                  "credits": "TOMAIIM"
                }
             ],
             "labels": [
@@ -982,6 +996,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/Chinaeasternskyteamold.png"
                   ],
                   "credits": "KN5290"
+               },
+               {
+                  "name": "Sichuan Airlines Cargo",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/sichuancargo.png"
+                  ],
+                  "credits": "TOMAIIM"
                }
             ],
             "labels": [
