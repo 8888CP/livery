@@ -448,6 +448,13 @@
                   "credits": "CP8888"
                },
                {
+                  "name": "Play",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/play.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
                   "name": "Qingdao Airlines (Jinghong livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/qingdaojinghong.png"
@@ -830,14 +837,6 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/KEblackpink.png"
                   ],
                   "credits": "TOMAIIM"
-               },
-               {
-                  "name": "Singapore Airlines (Star Alliance livery)",
-                  "texture": [
-                      "/models/aircraft/premium/777_300/specular_0.jpg",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Singapore_Airlines_Star_Alliance.png"
-                  ],
-                  "credits": "KN5290"
                }
             ],
             "labels": [
@@ -1562,6 +1561,14 @@
                   "name": "Lufthansa (Star Alliance livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/Lufthansastar.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "Singapore Airlines Cargo",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/Singapore_Cargo.png",
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
                   "credits": "CP8888"
