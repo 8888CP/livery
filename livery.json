@@ -1493,6 +1493,14 @@
                   ],
                   "credits": "KN5290"
                },
+              {
+                  "name": "Air China Cargo (Flagless)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/B-2458.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
                {
                   "name": "ANA (Yokoso Japan livery)",
                   "texture": [
