@@ -1675,6 +1675,21 @@
             "labels": [
                 "Texture"
             ]
+        },
+        "5211": {
+            "name": "Boeing B747SP",
+            "liveries": [
+               {
+                  "name": "Air China",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747sp/Airchina.png"
+                  ],
+                  "credits": "CP8888"
+               }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
