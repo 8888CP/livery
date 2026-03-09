@@ -750,7 +750,7 @@
               {
                   "name": "Hainan Airlines",
                   "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-900neo/hainan.png"
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-900neo/hainannew.png"
                   ],
                   "credits": "TOMAIIM,CP8888＆HO1796[Sino Wings Group]"
                }
@@ -1693,6 +1693,7 @@
         }
     }
 }
+
 
 
 
