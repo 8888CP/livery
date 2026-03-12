@@ -748,19 +748,19 @@
             "name": "Airbus a330-900neo",
             "liveries": [
               {
-                  "name": "Thai Airways (Star Alliance livery)",
-                  "texture": [
-                      "https://ibb.co/HpC5xfJc"
-                  ],
-                  "credits": "CP8888"
-               },
-              {
                   "name": "Hainan Airlines",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-900neo/hainannew.png"
                   ],
                   "credits": "TOMAIIM,CP8888＆HO1796[Sino Wings Group]"
-               }
+               },
+              {
+                  "name": "Thai Airways (Star Alliance livery)",
+                  "texture": [
+                      "https://i.ibb.co/YTXHyFr5/Thaistar.png"
+                  ],
+                  "credits": "CP8888"
+               }                
             ],
             "labels": [
                 "Texture"
@@ -1707,6 +1707,7 @@
         }
     }
 }
+
 
 
 
