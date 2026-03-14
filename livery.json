@@ -344,6 +344,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-1000/airchinacargored.png"
                   ],
                   "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Starlux (Airsorayama Silver design)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-1000/StarluxAirsorayamaSilver.png"
+                  ],
+                  "credits": "TOMAIIM"
                }
             ],
             "labels": [
@@ -1200,6 +1207,27 @@
         "3011": {
             "name": "Airbus a320-232",
             "liveries": [
+              {
+                  "name": "Air Macau (Macau 2005 livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-232/B-MAH.png"
+                  ],
+                  "credits": "CP8888"
+               },
+              {
+                  "name": "Aircalin (white design)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-232/Aircalinwhite.png"
+                  ],
+                  "credits": "Geofs Player Bilibili"
+               },
+              {
+                  "name": "Aircalin (2011 South Pacific Games livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-232/Aircalin_2011.png"
+                  ],
+                  "credits": "Geofs Player Bilibili"
+               },
               {
                   "name": "China Southern (Skyteam livery)",
                   "texture": [
