@@ -505,6 +505,13 @@
                   "credits": "CP8888＆TOMAIIM"
                },
               {
+                  "name": "Air India Express (China Eastern livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/VT-BWI.png"
+                  ],
+                  "credits": "KN5290"
+               },
+              {
                   "name": "China Southern Airlines",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/Chinasouthern.png"
@@ -1592,14 +1599,6 @@
                   "credits": "CP8888"
                },
                {
-                  "name": "KLM (new livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KLMnew.png",
-                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
-                  ],
-                  "credits": "CP8888"
-               },
-               {
                   "name": "Korean Air Cargo",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KoreanAirCargo.png",
@@ -1725,6 +1724,21 @@
                   "name": "Air China",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747sp/Airchina.png"
+                  ],
+                  "credits": "CP8888"
+               }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "1009": {
+            "name": "Airbus A300-600",
+            "liveries": [
+               {
+                  "name": "Mahan Air (new design)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus a300-600/mahan.png"
                   ],
                   "credits": "CP8888"
                }
