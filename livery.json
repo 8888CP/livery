@@ -244,7 +244,7 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b767-300ER/shanghaiold.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                }
             ],
             "labels": [
@@ -336,21 +336,21 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-1000/airchinacargo.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "Air China Cargo (red cargo logo)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-1000/airchinacargored.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "Starlux (Airsorayama Silver design)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-1000/StarluxAirsorayamaSilver.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                }
             ],
             "labels": [
@@ -386,14 +386,14 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/China_southern.png"
                   ],
-                  "credits": "TOMAIIM＆開飛機のzm[Sino Wings Group]"
+                  "credits": "TOMAIM ＆ 開飛機のzm[Sino Wings Group]"
                },
                {
                   "name": "Hainan Airlines (Soyteax 5 star Skytrax livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/hainan5star.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "Korean Air",
@@ -498,11 +498,11 @@
                   "credits": "CP8888"
                },
               {
-                  "name": "Air China (ZhouShan Hello livery)",
+                  "name": "Air China (Zhoushan Hello livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/airchinazhoushan.png"
                   ],
-                  "credits": "CP8888＆TOMAIIM"
+                  "credits": "CP8888 ＆ TOMAIM"
                },
               {
                   "name": "Air India Express (China Eastern livery)",
@@ -537,7 +537,7 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/N234BE.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                }
             ],
             "labels": [
@@ -552,14 +552,14 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-10/koreanblankpink.png"
                    ],
-                   "credits": "TOMAIIM"
+                   "credits": "TOMAIM"
                },
                {
                   "name": "Korean Air (Blackpink livery V2)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-10/KoreanAir&BlackPink_V2.png"
                    ],
-                   "credits": "TOMAIIM"
+                   "credits": "TOMAIM"
                },
                {
                   "name": "Singapore Airlines",
@@ -599,7 +599,7 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/Chinaeasternold.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
               {
                   "name": "China Eastern Airlines (Skyteam livery)",
@@ -694,14 +694,6 @@
         "2706": {
             "name": "Bombardier CRJ200",
             "liveries": [
-              {
-                  "name": "Shandong Airlines",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/CRJ200/shandong.png",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/CRJ200/shandong.png"
-                  ],
-                  "credits": "CP8888"
-               }
             ],
             "labels": [
                 "Texture"
@@ -742,7 +734,7 @@
                       "/models/aircraft/premium/a350/specular.jpg",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/starlux.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
               {
                   "name": "World2fly",
@@ -766,7 +758,7 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-900neo/hainannew.png"
                   ],
-                  "credits": "TOMAIIM,CP8888＆HO1796[Sino Wings Group]"
+                  "credits": "TOMAIM, CP8888 ＆ HO1796[Sino Wings Group]"
                },
               {
                   "name": "Thai Airways (Star Alliance livery)",
@@ -849,7 +841,7 @@
                       "/models/aircraft/premium/777_300/specular_0.jpg",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Korean_200th.png"
                   ],
-                  "credits": "CP8888＆KN5290"
+                  "credits": "CP8888 ＆ KN5290"
                },
                {
                   "name": "Korean Air (Expo 2030 Busan livery)",
@@ -857,7 +849,7 @@
                       "/models/aircraft/premium/777_300/specular_0.jpg",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/KEblackpink.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                }
             ],
             "labels": [
@@ -1001,7 +993,7 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/MU50th.png"
                   ],
-                  "credits": "KN5290＆CP8888"
+                  "credits": "KN5290 ＆ CP8888"
                },
                {
                   "name": "China Eastern Airlines (Skyteam livery)",
@@ -1022,7 +1014,7 @@
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-200/sichuancargo.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                }
             ],
             "labels": [
@@ -1327,7 +1319,7 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200/japantokyo2020.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
               {
                   "name": "Mahan Air",
@@ -1343,7 +1335,7 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200/United_old_radome.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                }
             ],
             "labels": [
@@ -1369,7 +1361,7 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/CA.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "Air China Cargo (Red Cargo Font and Without a national flag)",
@@ -1377,15 +1369,15 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/CAred.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
               {
-                  "name": "China Southern Cargo Airlines (white livery)",
+                  "name": "China Southern Cargo Airlines (white design)",
                   "texture": [
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/Chinasouthernwhite.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
               {
                   "name": "China Cargo (China Eastern Cold Chain 10th Anniversary livery of theSouth America Fresh Express)",
@@ -1393,7 +1385,7 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/MUcoldchain10th.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "China Cargo (old design)",
@@ -1401,7 +1393,7 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/MUold.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "China Postal Airlines",
@@ -1409,7 +1401,7 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/Chinapostal.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                }
             ],
             "labels": [
@@ -1556,7 +1548,7 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/ANAYOKOSOJAPAN.png",
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "China Airlines (Skyteam livery)",
@@ -1572,7 +1564,7 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/JALsolar.png",
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "Japan Airlines (white nose)",
@@ -1580,7 +1572,7 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/JALoldwhitenose.png",
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "Japan Airlines (Yokoso Japan livery)",
@@ -1588,7 +1580,7 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/JALyokoso.png",
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
-                  "credits": "TOMAIIM"
+                  "credits": "TOMAIM"
                },
                {
                   "name": "KLM (old livery)",
